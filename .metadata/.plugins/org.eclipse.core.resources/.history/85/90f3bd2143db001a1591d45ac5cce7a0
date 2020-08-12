@@ -1,0 +1,5 @@
+package br.com.dumontcorp.projetofinal.dao;
+
+public class UsuarioDAO {
+
+}

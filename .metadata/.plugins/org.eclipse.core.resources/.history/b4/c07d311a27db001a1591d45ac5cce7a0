@@ -1,0 +1,7 @@
+package com.isidrocorp.hello.model;
+
+public class Produto {
+	private int id;
+	private String descricao;
+	private float preco;
+}

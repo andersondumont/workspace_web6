@@ -1,0 +1,6 @@
+package com.isidrocorp.hello.controller;
+
+@RestController
+public class ProdutoController {
+	@GetMapping ("/produtoexemplo")
+}

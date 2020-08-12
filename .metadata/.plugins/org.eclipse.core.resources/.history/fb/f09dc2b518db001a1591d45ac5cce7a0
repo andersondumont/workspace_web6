@@ -1,0 +1,5 @@
+package com.isidrocorp.hello.controller;
+
+public class HelloController {
+
+}

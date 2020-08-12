@@ -1,0 +1,22 @@
+server.port = 8088
+
+# Integração com o BD
+#--------------- ITENS OBRIGATORIOS
+# 1 - Usuario do MySQL
+spring.datasource.username = root
+
+# 2 - Senha do usuario
+spring.datasource.password = And3rs0n@
+
+# 3 - URL do banco
+
+
+# 4 - "Dialeto" (driver) que será usado
+
+
+
+#--------------- ITENS OPCIONAIS
+# 5 - Mostrar o SQL gerado na console do Eclipse
+
+
+# 6 - Delegar a criação das tabelas

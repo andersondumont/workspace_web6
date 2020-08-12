@@ -1,0 +1,5 @@
+package br.com.dumontcorp.projetofinal.controller;
+
+public class DepartamentoController {
+
+}
